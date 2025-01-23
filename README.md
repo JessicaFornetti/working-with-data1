@@ -6,10 +6,9 @@ This project was completed as part of the course Master of Science in Computer S
 
 The main steps of the project are outlined below:
 
-- **Data Cleaning and Exploration** : Inspection of each feature's distribution and outliers, correlation matrix for quantitative variables 
-- **Model Training and Hyperparameter Tunning** : Exploration of different resampling methods (oversampling with SMOTE, under sampling with Random Undersampling), Logistic Regression, Random Forest, Gradient Boosting and SVM models trained in a pipeline consisting of encoding, feature selection using both filter and wrapper methods (information gain and forward sequential search) and a grid search to find the best hyperparameters for each model
-- **Training The Best Model and Evaluation** : The best Random Forest model obtained was retrained and evaluated on precision, recall, f1-score, accuracy and AUC
-- **Predictions on Queries Dataset** : Predictions were made on the queries dataset using the optimal model and saved in a txt file
+- **Part 1** : Loading and cleaning each dataset, merging of all the datasets to create a single dataset
+- **Part 2** : Exploratory Data Analysis, using histogram and boxplot in matplotlib, outliers incpection and removal, correlation matrix of quantitaive features
+- **Part 3** : 5 framed questions to provide insights on subsets of the data by grouping data and creating graphs
 
 # Repository Overview
 This repository contains 1 Jupyter notebook: [CA1](CA1.ipynb).
