@@ -6,9 +6,9 @@ This project was completed as part of the course Master of Science in Computer S
 
 The main steps of the project are outlined below:
 
-- **Part 1** : Loading and cleaning each dataset, merging of all the datasets to create a single dataset
-- **Part 2** : Exploratory Data Analysis, using histogram and boxplot in matplotlib, outliers incpection and removal, correlation matrix of quantitaive features
-- **Part 3** : 5 framed questions to provide insights on subsets of the data by grouping data and creating graphs
+- **Part 1** : Each dataset is loaded and cleaned individually, All the datasets are merged to create a single dataset
+- **Part 2** : Exploratory Data Analysis, using histograms and boxplots in matplotlib, outliers inspection and removal, correlation matrix of quantitative features
+- **Part 3** : 5 framed questions providing insights on subsets of the data by grouping data and creating graphs
 
 # Repository Overview
 This repository contains 1 Jupyter notebook: [CA1](CA1.ipynb).
